@@ -1,0 +1,23 @@
+{
+  "name": "@gamepark/board-game-template",
+  "version": "0.0.0",
+  "description": "Board Game Template rules for Game Park",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "author": "Romain Fromi <romain@game-park.com> (https://game-park.com/)",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "tsc"
+  },
+  "devDependencies": {
+    "@gamepark/rules-api": "~5.10.0",
+    "i18next": "^21.2.4"
+  }
+}
