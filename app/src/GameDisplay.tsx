@@ -13,6 +13,7 @@ export default function GameDisplay({game}: Props) {
     <Letterbox css={letterBoxStyle} top={0}>
       <div css={sampleCss}>
         {JSON.stringify(game)}
+        <br/>"Ceci est un essai !"
       </div>
       <Picture src={Images.sampleImage} css={sampleImageCss}/>
     </Letterbox>

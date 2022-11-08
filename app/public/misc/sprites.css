@@ -1,0 +1,63 @@
+/*
+Responsive CSS Sprite created using: https://responsive-css.us/
+*/
+
+.card-blue-ambush, .card-blue-archer, .card-blue-assassination, .card-blue-back, .card-blue-conspiracy, .card-blue-decree, .card-blue-heir, .card-blue-lord, .card-blue-shapeshifter, .card-blue-soldier, .card-blue-spy, .card-green-ambush, .card-green-archer, .card-green-assassination, .card-green-back, .card-green-conspiracy, .card-green-decree, .card-green-heir, .card-green-lord, .card-green-shapeshifter, .card-green-soldier, .card-green-spy, .card-grey-ambush, .card-grey-archer, .card-grey-assassination, .card-grey-back, .card-grey-conspiracy, .card-grey-decree, .card-grey-heir, .card-grey-lord, .card-grey-shapeshifter, .card-grey-soldier, .card-grey-spy, .card-red-ambush, .card-red-archer, .card-red-assassination, .card-red-back, .card-red-conspiracy, .card-red-decree, .card-red-heir, .card-red-lord, .card-red-shapeshifter, .card-red-soldier, .card-red-spy, .card-yellow-ambush, .card-yellow-archer, .card-yellow-assassination, .card-yellow-back, .card-yellow-conspiracy, .card-yellow-decree, .card-yellow-heir, .card-yellow-lord, .card-yellow-shapeshifter, .card-yellow-soldier, .card-yellow-spy 
+{display:inline-block; overflow:hidden; background-repeat: no-repeat;
+background-image:url(sprite.png);}
+
+.card-blue-ambush {width: 252px; height: 462px; background-position: 0.0520291% 0.126103%; background-size: 1625.40%; }
+.card-blue-archer {width: 252px; height: 462px; background-position: 6.65973% 0.126103%; background-size: 1625.40%; }
+.card-blue-assassination {width: 252px; height: 462px; background-position: 13.2674% 0.126103%; background-size: 1625.40%; }
+.card-blue-back {width: 252px; height: 462px; background-position: 19.8751% 0.126103%; background-size: 1625.40%; }
+.card-blue-conspiracy {width: 252px; height: 462px; background-position: 26.4828% 0.126103%; background-size: 1625.40%; }
+.card-blue-decree {width: 252px; height: 462px; background-position: 33.0905% 0.126103%; background-size: 1625.40%; }
+.card-blue-heir {width: 252px; height: 462px; background-position: 39.6982% 0.126103%; background-size: 1625.40%; }
+.card-blue-lord {width: 252px; height: 462px; background-position: 46.3059% 0.126103%; background-size: 1625.40%; }
+.card-blue-shapeshifter {width: 252px; height: 462px; background-position: 52.9136% 0.126103%; background-size: 1625.40%; }
+.card-blue-soldier {width: 252px; height: 462px; background-position: 59.5213% 0.126103%; background-size: 1625.40%; }
+.card-blue-spy {width: 252px; height: 462px; background-position: 66.1290% 0.126103%; background-size: 1625.40%; }
+.card-green-ambush {width: 252px; height: 462px; background-position: 72.7367% 0.126103%; background-size: 1625.40%; }
+.card-green-archer {width: 252px; height: 462px; background-position: 79.3444% 0.126103%; background-size: 1625.40%; }
+.card-green-assassination {width: 252px; height: 462px; background-position: 85.9521% 0.126103%; background-size: 1625.40%; }
+.card-green-back {width: 252px; height: 462px; background-position: 92.5598% 0.126103%; background-size: 1625.40%; }
+.card-green-conspiracy {width: 252px; height: 462px; background-position: 99.1675% 0.126103%; background-size: 1625.40%; }
+.card-green-decree {width: 252px; height: 462px; background-position: 0.0520291% 29.3821%; background-size: 1625.40%; }
+.card-green-heir {width: 252px; height: 462px; background-position: 6.65973% 29.3821%; background-size: 1625.40%; }
+.card-green-lord {width: 252px; height: 462px; background-position: 13.2674% 29.3821%; background-size: 1625.40%; }
+.card-green-shapeshifter {width: 252px; height: 462px; background-position: 19.8751% 29.3821%; background-size: 1625.40%; }
+.card-green-soldier {width: 252px; height: 462px; background-position: 26.4828% 29.3821%; background-size: 1625.40%; }
+.card-green-spy {width: 252px; height: 462px; background-position: 33.0905% 29.3821%; background-size: 1625.40%; }
+.card-grey-ambush {width: 252px; height: 462px; background-position: 39.6982% 29.3821%; background-size: 1625.40%; }
+.card-grey-archer {width: 252px; height: 462px; background-position: 46.3059% 29.3821%; background-size: 1625.40%; }
+.card-grey-assassination {width: 252px; height: 462px; background-position: 52.9136% 29.3821%; background-size: 1625.40%; }
+.card-grey-back {width: 252px; height: 462px; background-position: 59.5213% 29.3821%; background-size: 1625.40%; }
+.card-grey-conspiracy {width: 252px; height: 462px; background-position: 66.1290% 29.3821%; background-size: 1625.40%; }
+.card-grey-decree {width: 252px; height: 462px; background-position: 72.7367% 29.3821%; background-size: 1625.40%; }
+.card-grey-heir {width: 252px; height: 462px; background-position: 79.3444% 29.3821%; background-size: 1625.40%; }
+.card-grey-lord {width: 252px; height: 462px; background-position: 85.9521% 29.3821%; background-size: 1625.40%; }
+.card-grey-shapeshifter {width: 252px; height: 462px; background-position: 92.5598% 29.3821%; background-size: 1625.40%; }
+.card-grey-soldier {width: 252px; height: 462px; background-position: 99.1675% 29.3821%; background-size: 1625.40%; }
+.card-grey-spy {width: 252px; height: 462px; background-position: 0.0520291% 58.6381%; background-size: 1625.40%; }
+.card-red-ambush {width: 252px; height: 462px; background-position: 6.65973% 58.6381%; background-size: 1625.40%; }
+.card-red-archer {width: 252px; height: 462px; background-position: 13.2674% 58.6381%; background-size: 1625.40%; }
+.card-red-assassination {width: 252px; height: 462px; background-position: 19.8751% 58.6381%; background-size: 1625.40%; }
+.card-red-back {width: 252px; height: 462px; background-position: 26.4828% 58.6381%; background-size: 1625.40%; }
+.card-red-conspiracy {width: 252px; height: 462px; background-position: 33.0905% 58.6381%; background-size: 1625.40%; }
+.card-red-decree {width: 252px; height: 462px; background-position: 39.6982% 58.6381%; background-size: 1625.40%; }
+.card-red-heir {width: 252px; height: 462px; background-position: 46.3059% 58.6381%; background-size: 1625.40%; }
+.card-red-lord {width: 252px; height: 462px; background-position: 52.9136% 58.6381%; background-size: 1625.40%; }
+.card-red-shapeshifter {width: 252px; height: 462px; background-position: 59.5213% 58.6381%; background-size: 1625.40%; }
+.card-red-soldier {width: 252px; height: 462px; background-position: 66.1290% 58.6381%; background-size: 1625.40%; }
+.card-red-spy {width: 252px; height: 462px; background-position: 72.7367% 58.6381%; background-size: 1625.40%; }
+.card-yellow-ambush {width: 252px; height: 462px; background-position: 79.3444% 58.6381%; background-size: 1625.40%; }
+.card-yellow-archer {width: 252px; height: 462px; background-position: 85.9521% 58.6381%; background-size: 1625.40%; }
+.card-yellow-assassination {width: 252px; height: 462px; background-position: 92.5598% 58.6381%; background-size: 1625.40%; }
+.card-yellow-back {width: 252px; height: 462px; background-position: 99.1675% 58.6381%; background-size: 1625.40%; }
+.card-yellow-conspiracy {width: 252px; height: 462px; background-position: 0.0520291% 87.8941%; background-size: 1625.40%; }
+.card-yellow-decree {width: 252px; height: 462px; background-position: 6.65973% 87.8941%; background-size: 1625.40%; }
+.card-yellow-heir {width: 252px; height: 462px; background-position: 13.2674% 87.8941%; background-size: 1625.40%; }
+.card-yellow-lord {width: 252px; height: 462px; background-position: 19.8751% 87.8941%; background-size: 1625.40%; }
+.card-yellow-shapeshifter {width: 252px; height: 462px; background-position: 26.4828% 87.8941%; background-size: 1625.40%; }
+.card-yellow-soldier {width: 252px; height: 462px; background-position: 33.0905% 87.8941%; background-size: 1625.40%; }
+.card-yellow-spy {width: 252px; height: 462px; background-position: 39.6982% 87.8941%; background-size: 1625.40%; }
